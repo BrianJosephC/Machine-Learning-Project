@@ -1,0 +1,10 @@
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\bin\Debug\netstandard2.0\ML projectML.Model.deps.json
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\bin\Debug\netstandard2.0\ML projectML.Model.dll
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\bin\Debug\netstandard2.0\ML projectML.Model.pdb
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.AssemblyInfoInputs.cache
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.AssemblyInfo.cs
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.dll
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.pdb
+C:\Users\Bcrac\Desktop\ML project\ML projectML.Model\obj\Debug\netstandard2.0\ML projectML.Model.csproj.AssemblyReference.cache
